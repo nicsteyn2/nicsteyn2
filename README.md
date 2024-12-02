@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently a doctoral student on the [Modern Statistics and Statistical Machine Learning CDT](https://statml.io) at the University of Oxford, supervised by Professor Christl Donnelly and Dr Kris V Parag.
+I'm a doctoral student on the [Modern Statistics and Statistical Machine Learning CDT](https://statml.io) at the University of Oxford, supervised by Professor Christl Donnelly and Dr Kris V Parag.
 
 Currently I'm working on: 
  - SMC methods for epidemic renewal models ([website](https://nicsteyn2.github.io/SMCforRt/)/[working paper](https://github.com/nicsteyn2/SMCforRt/blob/main/workingpaper.pdf)/[GitHub repo](https://github.com/nicsteyn2/SMCforRt))
