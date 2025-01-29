@@ -7,7 +7,7 @@ Currently I'm working on:
  - Uncertainty quantification in epidemic models ([preprint](https://doi.org/10.1101/2024.10.22.24315918)/[GitHub repo](https://github.com/nicsteyn2/RobustRtEstimators)/[vignettes](https://nicsteyn2.github.io/RobustRtEstimators/))
  - Smoothing methods for epidemic survey data
  - A descriptive analysis of behaviours during the COVID-19 pandemic in England
- - Estimating orphanhood due to COVID-19 and all-causes in Brazil, extending [previous work](https://imperialcollegelondon.github.io/orphanhood_calculator/#/country/Brazil) with higher quality data and more rigorous methodology
+ - Estimating orphanhood due to COVID-19 and all-causes in Brazil, extending [previous work](https://imperialcollegelondon.github.io/orphanhood_calculator/#/country/Brazil) with higher quality data and more rigorous methodology ([GitHub repo](https://github.com/MLGlobalHealth/BrazilOrphanhood))
 
 I do most of my work in Julia, although I am also highly proficient in R, proficient in MATLAB and Python, and I once knew C++ and SQL.
 
